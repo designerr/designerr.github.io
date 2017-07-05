@@ -5,7 +5,7 @@
 title: Designerr
 description: |
   Personal art blog
-owner: Nikolai Sosnovshchenko
+owner: Nikolay Sosnovshchenko
 first_published: 2017
 email: designerr86@gmail.com
 baseurl: ""
@@ -14,7 +14,7 @@ social:
   # twitter: https://twitter.com/<username>
   # github: https://github.com/<username>
   # linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
+  facebook-official: https://www.facebook.com/profile.php?id=100013651371250
   # google-plus-square: https://plus.google.com/u/0/+<username>
   email: mailto:designerr86@gmail.com
   #flickr:
