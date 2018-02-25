@@ -7,7 +7,6 @@ title: Infographics
 				<h3>Infographics</h3>
 				<div class="box alt">
 					<div class="row uniform 50%">
-						<div class="12u"><span class="image fit"><img src="images/banner.jpg" alt="" /></span></div>
 						{% for image in sorted_gallery %}
 					      	<div class="4u"><span class="image fit"><a href="{{ image.image_path }}"><img src="{{ image.image_path }}" alt="{{ image.title }}" /></a></span></div>
 						{% endfor %}
