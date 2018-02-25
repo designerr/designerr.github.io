@@ -57,3 +57,4 @@ markdown: kramdown
 #  style: compressed
 collections: 
   galleries:
+  infographics:
